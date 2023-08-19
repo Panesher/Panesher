@@ -1,5 +1,5 @@
-Student@[CS HSE](https://cs.hse.ru/en), ML departament
-<br>SWE@[Yandex.Bank](https://bank.yandex.ru)
+SWE@[Yandex.Bank](https://bank.yandex.ru)
+<br>BSc of CS@[HSE](https://cs.hse.ru/en), ML departament
 
 Tg: [@Panesher](https://t.me/Panesher)
 <br>LinkedIn: [panesher](https://www.linkedin.com/in/panesher/)
