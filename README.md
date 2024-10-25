@@ -1,4 +1,4 @@
-SWE@[Yandex.Bank](https://bank.yandex.ru)
+SWE
 <br>BSc of CS@[HSE](https://cs.hse.ru/en), ML departament
 
 Tg: [@Panesher](https://t.me/Panesher)
